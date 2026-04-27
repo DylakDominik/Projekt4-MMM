@@ -1,0 +1,9 @@
+# Wirtualne środowisko
+venv/
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.pyc
+
+# Konfiguracja edytora VS Code
+.vscode/
